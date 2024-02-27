@@ -13,6 +13,7 @@ then chopped up into packets, sent to the server, translated into "pirate", then
 - In one window first run the server: cd into client.py, enter '''python3 client.py''' into the terminal
 - In the other window run the client: cd into client.py, enter '''python3 client.py''' into the terminal, 
 you will then be prompted to enter your english message.
+- Note: The english message must contain words from the pirate.csv list.
 
 # VIDEO DEMO
 https://www.youtube.com/watch?v=k7GC0jKx76U
